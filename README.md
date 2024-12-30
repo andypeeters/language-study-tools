@@ -53,6 +53,6 @@ which direction I'd like to give to this project.
 
 ## License
 
-[AGPL3](https://choosealicense.com/licenses/agpl-3.0/)
-
 <a href="https://github.com/andypeeters/language-study-tools/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-AGPLv3-purple"></a>
+
+[AGPL3](https://choosealicense.com/licenses/agpl-3.0/)
